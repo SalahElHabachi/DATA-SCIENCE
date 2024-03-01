@@ -19,3 +19,29 @@ Vous trouvere un fichier requiermnet où vous trouvez toutes les biblio nécessa
 Vous trouver dans le notebook cidessu toute l'étude que j'ai fait pour répodre à ce besoin. De l'analyse des données au predictions. 
 
 
+## Comment faire marcher l'application ?
+### Préprer le terrain : 😉
+1. Cloner le projet en local :
+```bash
+git clone ...............
+```
+2. Créer & Activer un environnement conda :
+```bash
+conda create --name nom_de_votre_environnement python=3.10
+
+```
+ - Sur Windows :
+```bash
+activate nom_de_votre_environnement
+```
+ - Sur Linux/macOS :
+```bash
+source activate nom_de_votre_environnement
+```
+3. Installer les package nécessaires :
+> Dans ce projet on a utilisé la bibiothèque Tkinter de python :
+
+```bash
+pip install requierements.txt
+
+```
