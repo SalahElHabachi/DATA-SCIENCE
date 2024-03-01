@@ -45,3 +45,7 @@ source activate nom_de_votre_environnement
 pip install requierements.txt
 
 ```
+
+
+
+>![Thanks](https://github.com/SalahElHabachi/MODELING/blob/main/Epidemiological-Modeling/image/thanks.PNG)
