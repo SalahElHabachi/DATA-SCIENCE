@@ -39,7 +39,7 @@ activate nom_de_votre_environnement
 source activate nom_de_votre_environnement
 ```
 3. Installer les package nécessaires :
-> Dans ce projet on a utilisé la bibiothèque Tkinter de python :
+> Pour vous faciliter la vie on a lister toutes les librairies dont vous aurez besoin pour exécuter votre notebook : requierements.txt
 
 ```bash
 pip install requierements.txt
